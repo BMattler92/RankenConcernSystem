@@ -1,0 +1,32 @@
+﻿body {
+}
+
+header span{
+    color:#e51937;
+    font-size:50px;
+    line-height:69px;
+  
+}
+
+a{
+    color:#e51937;
+}
+
+#header {
+    background-color:#c6c6c6;
+    color:black;
+    padding: 10px;
+    font-weight:bold;
+    font-size:28px;
+}
+
+.concerns {
+    color:#e51937;
+}
+
+#Submit1, #btnsubmitperson, #btnsubmitconcern, #btnsubmitaction{
+background-color:#e51937;
+color:#fff;
+}
+
+#login{text-align:right;}
